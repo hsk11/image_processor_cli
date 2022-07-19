@@ -1,5 +1,9 @@
 # Image Processing CLI in python
-
+---
+[![Twitter Follow](https://img.shields.io/twitter/follow/Harpalsingh_11?label=Follow)](https://twitter.com/intent/follow?screen_name=Harpalsingh_11)
+[![Linkedin: Harpal Singh](https://img.shields.io/badge/-harpalsingh11-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harpalsingh11)](https://www.linkedin.com/in/harpalsingh11/)
+![GitHub followers](https://img.shields.io/github/followers/hsk11?label=Follow&style=social)
+---
 ** Initial Release: 27-July-2016**
 
 ## Features
