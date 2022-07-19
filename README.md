@@ -14,3 +14,7 @@
 8. Flip Image
 9. Draw text on image
 
+### System Requirements
+1. Linux (Tested), Windows
+2. Python 3.6 + (PIL library from Image)
+
